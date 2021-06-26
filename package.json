@@ -1,0 +1,32 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "products o ecomm-shoppers-point",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnabAEC/shoppers-point-products.git"
+  },
+  "keywords": [
+    "ecomm",
+    "shoppers-point",
+    "products"
+  ],
+  "author": "Arnab Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnabAEC/shoppers-point-products/issues"
+  },
+  "homepage": "https://github.com/ArnabAEC/shoppers-point-products#readme"
+}
